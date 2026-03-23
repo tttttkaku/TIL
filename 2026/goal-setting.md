@@ -1,3 +1,4 @@
+2026/03/24 UPDATE
 # 目標設定（Will/Can/Must）
 
 ## Will（やりたいこと）
@@ -17,8 +18,8 @@
 Python 基礎
 Python 基礎のスキルチェック
 Python の Webフレームワーク（Django）
-Python の Webフレームワークのスキルチェック ←現在ここです！！
-Python の WebフレームワークでのAPI構築
+Python の Webフレームワークのスキルチェック 
+Python の WebフレームワークでのAPI構築 ←現在ここです！！
 Python の WebフレームワークでのAPI構築のスキルチェック
 
 📝フロントエンド編
@@ -29,7 +30,7 @@ React での開発のスキルチェック
 （Next.js での開発、？）
 
 📝バージョン管理編
-Git/GitHub の基礎
+Git/GitHub の基礎 ←現在ここです！！
 Git/GitHub を普段から使用できるように！
 
 📝実践編
@@ -46,7 +47,7 @@ Git/GitHub を普段から使用できるように！
 - Git/GitHub の基本操作も学習中
 
 ### 現在の課題
-- Pythonの進捗が遅い
+- Pythonの進捗が遅い ←現在ここです！！
 - JavaScript の理解がまだ浅い（特に非同期処理、オブジェクト指向など）
 - 日々の記録/発信が苦手
 
