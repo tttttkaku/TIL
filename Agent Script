@@ -1,1 +1,39 @@
+トップレベルの8つのブロックは必ず以下の順序で記述しましょう。
+
+# 1. CONFIG(必須）- エージェントのメタデータ
+config:
+   agent_name: "DescriptvieName"
+
+# 2. VARIABLES - 状態管理
+variables:
+
+# 3. SYSTEM (必須） - グローバル設定
+system:
+   messages:
+      welcome: ""
+      error: ""
+   instructions: ""
+
+# 4. CONNECTONS esc
+connections:
+
+# 5. KNOWLEDGE knowledge
+knowledge:
+
+# 6.LANGUAGE 
+language:
+
+# 7. START_AGENT (必須）　
+start_agent topic_selector:
+  description: ""
+  reasoning:
+     actions:
+
+# 8. TOPICS (少なくとも1つ必須） ^ topic def
+topic my_topic:
+   description: ""
+   actions:
+   resoning
+
+
 
