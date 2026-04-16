@@ -35,5 +35,16 @@ topic my_topic:
    actions:
    resoning
 
+# 7. 8. の順序
+start_agent, topice block内
+
+1.description
+2.system
+3.actions
+4.
+
+
+
+
 
 
